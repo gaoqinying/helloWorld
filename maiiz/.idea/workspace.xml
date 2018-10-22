@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e943444-5e3a-40a5-8736-e438c3110e40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/exwallet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exwallet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exwallet/api/api.go" beforeDir="false" afterPath="$PROJECT_DIR$/exwallet/api/api.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exwallet/cmd/wallet/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/exwallet/cmd/wallet/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exwallet/syncer/eth/sync.go" beforeDir="false" afterPath="$PROJECT_DIR$/exwallet/syncer/eth/sync.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exwallet/wallet/wallet.go" beforeDir="false" afterPath="$PROJECT_DIR$/exwallet/wallet/wallet.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../github/TestProject/README.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1930494404">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="47" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="154" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="154" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exwallet/syncer/eth/sync.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-357">
+              <caret line="269" lean-forward="true" selection-start-line="269" selection-end-line="269" />
+              <folding>
+                <element signature="n#!!block;n#New#0" />
+                <element signature="e#1897#2115#0" />
+                <element signature="e#2404#2483#0" />
+                <element signature="n#!!block;n#UpdateConfirmaTions#0" />
+                <element signature="n#!!block;n#getCoinInfo#0" />
+                <element signature="n#!!block;n#isSysOrFeeAddress#0" />
+                <element signature="n#!!block;n#getBlock#0" />
+                <element signature="n#!!block;n#getTransactionReceipt#0" />
+                <element signature="e#11020#11036#0" />
+                <element signature="e#11085#11165#0" />
+                <element signature="n#!!block;n#SuggestGasPrice#0" />
+                <element signature="n#!!block;n#SendRawTransaction#0" />
+                <element signature="n#!!block;n#PendingNonceAt#0" />
+                <element signature="n#!!block;n#GetTx#0" />
+                <element signature="n#!!block;n#Sender#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exwallet/sign/client.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-210">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#14#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exwallet/sign/server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1597">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <element signature="e#14#326#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exwallet/cmd/wallet/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+              <folding>
+                <element signature="e#14#309#0" expanded="true" />
+                <element signature="n#!!block;n#initConfig#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/go/src/fmt/print.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1762">
+              <caret line="236" column="5" selection-start-line="236" selection-start-column="5" selection-end-line="236" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/go/src/syscall/types_windows.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2513">
+              <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exwallet/api/api.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-285">
+              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+              <folding>
+                <element signature="e#13#214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exwallet/wallet/wallet.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="123" column="24" lean-forward="true" selection-start-line="123" selection-start-column="24" selection-end-line="123" selection-end-column="24" />
+              <folding>
+                <element signature="e#765#1104#0" />
+                <element signature="n#!!block;n#New#0" />
+                <element signature="e#3855#3889#0" />
+                <element signature="e#5501#5720#1" />
+                <element signature="e#5864#5993#0" />
+                <element signature="e#6650#6988#0" />
+                <element signature="e#6865#6886#0" />
+                <element signature="e#7099#7226#0" />
+                <element signature="e#8364#8454#0" />
+                <element signature="e#8756#8910#0" />
+                <element signature="e#9045#9130#0" />
+                <element signature="e#10426#10512#0" />
+                <element signature="e#10518#10596#0" />
+                <element signature="n#!!block;n#sign#0" />
+                <element signature="e#11913#11993#0" />
+                <element signature="e#12082#12243#0" />
+                <element signature="e#12447#12626#0" />
+                <element signature="e#12915#13003#0" />
+                <element signature="e#14833#15646#0" />
+                <element signature="n#!!block;n#validAddress#0" />
+                <element signature="e#17437#17672#0" />
+                <element signature="e#18327#18506#1" />
+                <element signature="e#18596#19242#0" />
+                <element signature="e#18728#18755#0" />
+                <element signature="e#20017#20064#0" />
+                <element signature="e#20070#20121#0" />
+                <element signature="e#20269#20297#0" />
+                <element signature="e#20524#20622#0" />
+                <element signature="e#20713#21603#0" />
+                <element signature="e#23587#23616#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>maxTransLmt</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="D:\go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exwallet/api/api.go" />
+        <option value="$PROJECT_DIR$/exwallet/syncer/eth/sync.go" />
+        <option value="$PROJECT_DIR$/exwallet/wallet/wallet.go" />
+        <option value="$PROJECT_DIR$/exwallet/cmd/wallet/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="105" />
+    <option name="y" value="42" />
+    <option name="width" value="1750" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="sign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="syncer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="syncer" type="462c0819:PsiDirectoryNode" />
+              <item name="eth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maiiz" type="462c0819:PsiDirectoryNode" />
+              <item name="exwallet" type="462c0819:PsiDirectoryNode" />
+              <item name="wallet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.10.4" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.10.4" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.10.4" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fmt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;maiiz&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;maiiz&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maiiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;maiiz&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="84" y="34" width="1400" height="830" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1833085" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exwallet/syncer/syncer_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/base/crypto.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/api/api_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#13#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/base/httputil.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/go/src/sync/mutex.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/vendor/github.com/ethereum/go-ethereum/rlp/encode.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/base/util.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/config/config.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/vendor/github.com/ethereum/go-ethereum/common/types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="147" column="5" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/vendor/github.com/maiiz/coinlib/ethereum/types/transaction.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/vendor/github.com/spf13/cobra/command.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="734" column="18" selection-start-line="734" selection-start-column="18" selection-end-line="734" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/vendor/github.com/maiiz/coinlib/ethereum/types/block.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="303" column="16" selection-start-line="303" selection-start-column="16" selection-end-line="303" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/go/src/math/big/int.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="135" column="12" lean-forward="true" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/wallet/wallet.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="123" column="24" lean-forward="true" selection-start-line="123" selection-start-column="24" selection-end-line="123" selection-end-column="24" />
+          <folding>
+            <element signature="e#765#1104#0" />
+            <element signature="n#!!block;n#New#0" />
+            <element signature="e#3855#3889#0" />
+            <element signature="e#5501#5720#1" />
+            <element signature="e#5864#5993#0" />
+            <element signature="e#6650#6988#0" />
+            <element signature="e#6865#6886#0" />
+            <element signature="e#7099#7226#0" />
+            <element signature="e#8364#8454#0" />
+            <element signature="e#8756#8910#0" />
+            <element signature="e#9045#9130#0" />
+            <element signature="e#10426#10512#0" />
+            <element signature="e#10518#10596#0" />
+            <element signature="n#!!block;n#sign#0" />
+            <element signature="e#11913#11993#0" />
+            <element signature="e#12082#12243#0" />
+            <element signature="e#12447#12626#0" />
+            <element signature="e#12915#13003#0" />
+            <element signature="e#14833#15646#0" />
+            <element signature="n#!!block;n#validAddress#0" />
+            <element signature="e#17437#17672#0" />
+            <element signature="e#18327#18506#1" />
+            <element signature="e#18596#19242#0" />
+            <element signature="e#18728#18755#0" />
+            <element signature="e#20017#20064#0" />
+            <element signature="e#20070#20121#0" />
+            <element signature="e#20269#20297#0" />
+            <element signature="e#20524#20622#0" />
+            <element signature="e#20713#21603#0" />
+            <element signature="e#23587#23616#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/go/src/strings/strings.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="581" column="5" selection-start-line="581" selection-start-column="5" selection-end-line="581" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/api/api.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#13#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/db/db.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="247" column="5" selection-start-line="247" selection-start-column="5" selection-end-line="247" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/sign/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/sign/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1597">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="e#14#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/syncer/syncer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/go/src/syscall/types_windows.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2513">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../test/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/go/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1762">
+          <caret line="236" column="5" selection-start-line="236" selection-start-column="5" selection-end-line="236" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/syncer/eth/sync.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="269" lean-forward="true" selection-start-line="269" selection-end-line="269" />
+          <folding>
+            <element signature="n#!!block;n#New#0" />
+            <element signature="e#1897#2115#0" />
+            <element signature="e#2404#2483#0" />
+            <element signature="n#!!block;n#UpdateConfirmaTions#0" />
+            <element signature="n#!!block;n#getCoinInfo#0" />
+            <element signature="n#!!block;n#isSysOrFeeAddress#0" />
+            <element signature="n#!!block;n#getBlock#0" />
+            <element signature="n#!!block;n#getTransactionReceipt#0" />
+            <element signature="e#11020#11036#0" />
+            <element signature="e#11085#11165#0" />
+            <element signature="n#!!block;n#SuggestGasPrice#0" />
+            <element signature="n#!!block;n#SendRawTransaction#0" />
+            <element signature="n#!!block;n#PendingNonceAt#0" />
+            <element signature="n#!!block;n#GetTx#0" />
+            <element signature="n#!!block;n#Sender#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exwallet/cmd/wallet/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+          <folding>
+            <element signature="e#14#309#0" expanded="true" />
+            <element signature="n#!!block;n#initConfig#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
